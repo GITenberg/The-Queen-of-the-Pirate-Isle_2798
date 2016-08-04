@@ -1,0 +1,31 @@
+_repo: The-Queen-of-the-Pirate-Isle_2798
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- California -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PZ'
+- !lcsh 'Stanislaus River (Calif.) -- Juvenile fiction'
+- !lcsh 'Fantasy games -- Juvenile fiction'
+- GITenberg
+title: The Queen of the Pirate Isle
+url: http://www.gutenberg.org/ebooks/2798
